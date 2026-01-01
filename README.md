@@ -30,4 +30,3 @@ I'm a **B.Tech IT final-year student** from Mumbai focuses on backend infrastruc
 - 📡 **Observability & Monitoring** - Mastering distributed tracing and metrics
 - 🔐 **Cybersecurity Fundamentals** - Securing applications and infrastructure
 
----
